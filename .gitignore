@@ -127,4 +127,8 @@ _local_settings.py
 gunicorn-error-log
 db.sqlite3
 db copy.sqlite3
+<<<<<<< HEAD
 static/
+=======
+static/
+>>>>>>> 78198562a6a39671d660e6632f9571d325e7d30d
